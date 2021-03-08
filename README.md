@@ -12,7 +12,7 @@ Voici une liste non-exhaustive des principaux projets sûr lesquelles je travail
 - Créateur du logiciel Minecraft Texture Editor - [**Site Web**](https://guiguitator.netlify.app/)
 - Community Manager du bot Graphicoum - [**Site Web**](http://www.graphicoum.xyz/) • [**Discord**](https://discord.com/invite/sstarhYAZZ)
 - Développeur et Community Manager de la Team Dev-Mamba - [**Site Web**](https://dev-mamba.netlify.app/) • [**Discord**](https://discord.com/invite/93QAkXR7t8) • [**Github**](https://github.com/Dev-Mamba)
-- Créateur et Développeur du framework : 🌺 Flora CSS - [**Site Web**](https://floracss.netlify.app/) • [**Github**](https://github.com/guiguitator/Flora_CSS) • [**Discord**](#) 
+- Créateur et Développeur du framework : 🌺 **Flora CSS** - [**Site Web**](https://floracss.netlify.app/) • [**Github**](https://github.com/guiguitator/Flora_CSS) • [**Discord**](#) 
 
 ## 🚀 Me suivre
 
