@@ -8,7 +8,7 @@ Hey, je m'appelle Guillaume, j'ai 15 ans et je suis passionné de développement
 
 Voici une liste non-exhaustive des principaux projets sûr lesquelles je travaille :
 
-### Terminé :
+### Terminé (ou en développement) :
 
 - **OpMarkdown :** Un petit éditeur de texte *markdown*, personnalisable et facile à utiliser. - [**Site Web**](https://opmarkdown.netlify.app/)
 
