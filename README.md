@@ -10,6 +10,8 @@ Voici une liste non-exhaustive des principaux projets sûr lesquelles je travail
 
 ### Terminé :
 
+- **OpMarkdown** : Un petit éditeur de texte *markdown*, personnalisable et facile à utiliser. - [**Site Web**](https://opmarkdown.netlify.app/)
+
 ### En développement (ou abandonné) :
 
 - Fondateur et Développeur de Build by Daylight - [**Site Web**](https://discord.com/invite/PKYajxd) • [**Discord**](https://discord.com/invite/PKYajxd)
