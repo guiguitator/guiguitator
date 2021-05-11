@@ -10,7 +10,7 @@ Voici une liste non-exhaustive des principaux projets sûr lesquelles je travail
 
 ### Terminé (ou en développement) :
 
-- **🥑 Avocado JS :** Un framework JavaScript, inspiré du célèbre *Jqeury*, possèdant de nombreuse fonction en tous genre (animations, raccourcis...) pour vous aider à développer rapidement votre site. - [**Site Web**](#) • [**Github**](https://github.com/guiguitator/AvocadoJS)
+- **🥑 Avocado JS :** Un framework JavaScript, inspiré du célèbre *Jqeury*, possèdant de nombreuse fonction en tous genre (animations, raccourcis...) pour vous aider à développer rapidement votre site. - [**Site Web**](#) • [**Github**](https://github.com/guiguitator/Avocado.js)
 - **OpMarkdown :** Un petit éditeur de texte *markdown*, personnalisable et facile à utiliser. - [**Site Web**](https://opmarkdown.netlify.app/)
 
 ### En développement (ou abandonné) :
