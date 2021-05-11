@@ -16,7 +16,7 @@ Voici une liste non-exhaustive des principaux projets sûr lesquelles je travail
 
 - Fondateur et Développeur de Build by Daylight - [**Site Web**](https://discord.com/invite/PKYajxd) • [**Discord**](https://discord.com/invite/PKYajxd)
 - Créateur du logiciel Minecraft Texture Editor - [**Site Web**](https://guiguitator.netlify.app/)
-- 🌺 **Flora CSS :** - [**Site Web**](https://floracss.netlify.app/) • [**Github**](https://github.com/guiguitator/Flora_CSS) • [**Discord**](#) 
+- **Flora CSS :** Un framework CSS semblable à *Tailwind* mais pour les adeptes du **snake_case** - [**Site Web**](https://floracss.netlify.app/) • [**Github**](https://github.com/guiguitator/Flora_CSS) • [**Discord**](#) 
 
 
 ## 🚀 Me suivre
